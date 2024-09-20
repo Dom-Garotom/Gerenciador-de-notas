@@ -42,9 +42,6 @@ Gera um relatório individual com as informações do aluno, suas notas e média
    cd <NOME_DO_DIRETORIO>
 
 2. Compile o código:
-  ```bash
-    g++ -o sistema_gestao system.cpp
-
-3. Rode o código :
-  ```bash
-    ./system
+    ```bash
+    compile o código <g++ -o sistema_gestao system.cp>
+    execute o código <./system:
