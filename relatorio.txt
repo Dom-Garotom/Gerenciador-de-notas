@@ -1,0 +1,22 @@
+RELATÓRIO ESCOLAR
+
+------------------------------------
+Nome: JULIO_CESAR
+Matricula 3090
+Turma: 2C
+------------------------------------
+Disciplinas    | N1 | N2 | N3 | N4 | Média
+portugues     |  7  |  1  |  3  |  4 | 3.75
+matematica    |  6  |  5  |  6  |  7 | 6
+ciencias      |  4  |  8  |  8  |  8 | 7
+
+
+Observacoes: 
+Prezado(a) JULIO_CESAR,
+Apos a conclusao das atividades e avaliacoes deste periodo, sua media geral foi de 5.58333.
+Infelizmente, com esse resultado, voce foi reprovado(a).
+Sabemos que os resultados podem nao ter sido os esperados, mas acreditamos que, com mais dedicacao e foco, voce podera melhorar seu desempenho.
+Recomendamos que utilize este momento como uma oportunidade para evoluir e planejar suas proximas acoes com mais confianca.
+Estamos a disposicao para auxilia-lo(a) no que for necessario.
+Atenciosamente,
+IfRN
